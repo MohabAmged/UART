@@ -8,6 +8,7 @@ The main features are:
 
 # Frame 
 The Uart Transmit and Receive a Frame Consists of 1 Stop Bit + 8 Data Bits + 1 Stop bit only. ( Can't Be Configured For Now )
+
 ![image](https://github.com/MohabAmged/UART/assets/68222258/d1603262-bc81-4010-9b32-de71985d6f43)
 
 # Block Diagram 

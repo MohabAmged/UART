@@ -1,5 +1,6 @@
 # UART
-The Universal Asynchronous serial Receiver and Transmitter (UART) is a highly flexible serial communication device Wrote In VHDL And Synthesized For Spartan-7 . 
+The Universal Asynchronous serial Receiver and Transmitter (UART) is a highly flexible serial communication device Wrote In VHDL And Synthesized For Spartan-7.
+
 The main features are:
 - Full Duplex Operation (Independent Serial Receive and Transmit Registers).
 - Asynchronous Operation. 

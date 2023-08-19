@@ -16,7 +16,7 @@ The Architecture of my Uart is a very simple one it consits of
 - Receiver Module
 - Transmitter Module
  
-![image](https://github.com/MohabAmged/UART/assets/68222258/1f2c96b8-0f84-4089-9d95-c0f7b1db8067)
+![image](https://github.com/MohabAmged/UART/assets/68222258/3214dc8d-8b1a-47b7-afb5-68588b295755)
 
 # Baud Rate Genrator 
 - Divisor Registers (16 Bits )
